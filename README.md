@@ -76,4 +76,3 @@ graph TD
     A[Пользователь] --> B[Telegram Bot]
     B --> C[ЦБ РФ API]
     B --> D[PostgreSQL]
-    D --> B
